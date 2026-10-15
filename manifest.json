@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Business Ap",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Business App",
+  "start_url": "https://shakibkhaner6-glitch.github.io/Business-App/",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
